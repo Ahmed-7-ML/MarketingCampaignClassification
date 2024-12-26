@@ -73,7 +73,6 @@ Marital_Status_Widow = 1 if Marital_Status == "Widow" else 0
 # One-hot encoding for Education
 Education = 0 if Education == "Basic" else 1 if Education == "Graduation" else 2 if Education == "Master" else 3 if Education == "PhD" else 4
 
-# Feature array (match the order and count with the model)
 features = [
     Age, Education, Income, Kidhome, Teenhome, Dt_Customer.toordinal(
     ), Recency, MntWines, MntFruits,
