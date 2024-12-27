@@ -11,4 +11,4 @@ This app predicts whether a customer will respond to a marketing campaign based 
 
 Contributions are welcome! Please submit a pull request with clear and concise descriptions of your changes.
 
-Contact: [Ahmed Akram Amer/a7m7da7e3@gmail.com]
+Contact: [Ahmed Akram Amer/a7m7da7e3@gmail.com], [Ibrahim Hashish/ibrahimhashish257@gmail.com]
